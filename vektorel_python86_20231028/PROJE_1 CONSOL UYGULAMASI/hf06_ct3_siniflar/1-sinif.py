@@ -2,6 +2,7 @@ class Ogrenci:
     adi = "ad girilmedi",
     numarasi = "",
     disiplincezasi = 0
+    
     def yaz():
         print("Öğrenci bilgileri yazılıyor.")
 
